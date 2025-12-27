@@ -27,3 +27,7 @@ int main()
 
     return 0;
 }
+
+/* 
+Enter total seconds: 12000
+Time in HH:MM:SS format = 03:20:00*/
